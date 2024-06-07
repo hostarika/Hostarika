@@ -1,0 +1,43 @@
+
+
+.bg-div{
+    border: 2px solid red;
+    height: 600PX;
+    width: 1440px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    background-image: url(./image\ 1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.forma{
+    width: 400px;
+    height: 400px;
+    background-color: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+    opacity: 70%;
+}
+
+.forma input{
+    height: 40px;
+    background: none;
+    border: none;
+    border-bottom: 1px solid whitesmoke;
+}
+footer{
+   display: flex; 
+   justify-content: space-between;
+   background-color: black;
+   color: white;
+   padding: 50px;
+}
+.br{
+    background-color: black;
+}
